@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "475c7583639e902f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2c57e2cf60ba294",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea525c33e9b2c05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "92 Templates/Template - Resource Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template - Resource Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c435c62a572b715a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f520e6dc83db2e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a9ed03eb00e661",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d4f9f9b40ad75c69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82815404ef06e6f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81588067cb1a04a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "229e1c7be784e309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46496c83291b7c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "92 Templates/Template - Resource Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Template - Resource Note"
+            }
+          },
+          {
+            "id": "ba2dc3011e57446c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "92 Templates/Template - Resource Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Template - Resource Note"
+            }
+          },
+          {
+            "id": "311a91a823471bee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cab7dbc25b9a99ab",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2557f55d265ce18d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "92 Templates/Template - Resource Note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Template - Resource Note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ea525c33e9b2c05b",
+  "lastOpenFiles": [
+    "00 Inbox/Untitled.md",
+    "92 Templates/Template - Resource Note.md",
+    "2026-03-16.md",
+    "README.md",
+    "92 Templates/Template - Resource Map.md",
+    "92 Templates/Template - Project Note.md",
+    "92 Templates/Template - Project Map.md",
+    "92 Templates/Template - Evergreen Note.md",
+    "92 Templates/Template - Daily Note.md",
+    "92 Templates/Template - Area Note.md",
+    "92 Templates/Template - Area Map.md",
+    "92 Templates",
+    "99 Journal",
+    "91 Evergreen",
+    "90 Glossary",
+    "04 Archive",
+    "03 Resources",
+    "02 Areas",
+    "01 Projects",
+    "00 Inbox"
+  ]
+}
